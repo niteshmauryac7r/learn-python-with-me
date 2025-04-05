@@ -1,7 +1,6 @@
 x = 10
 
 def abc():
-
     global y 
     y = 5
     print(y)
